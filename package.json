@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "bullmq": "^5.12.7",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "msal-node": "^0.0.1-security",
+    "nodemailer": "^6.9.14",
+    "openai": "^4.55.9"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.3.0",
+    "typescript": "^5.5.4"
+  }
+}
